@@ -1,0 +1,61 @@
+*{
+margin: 0;
+}
+body{
+
+    background-color: rgb(33, 34, 37);
+
+}
+nav.parent{
+margin-top: 0,8%;
+margin-left: 33%;
+display: inline;
+align-items: right;
+}
+.right header{
+
+    display :right;
+    gap: 10px;
+    margin-left: 75%;
+    align-items:flex-end;
+}
+.right-header a {
+border: none
+margin-top 
+3%;
+text-decoration: none;
+font-size: 9px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+
+}
+
+center {
+    display: flex;
+      margin-left: auto;
+    margin-right: auto;
+      width: 50%;
+}
+img{
+border: none;
+margin-top: 18%;
+margin-left: 14%;
+width: 12px;
+}
+.signin{
+margin-top: auto;
+
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+}
+.recherche{
+
+    place-items: right;
+}
